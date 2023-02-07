@@ -1,0 +1,1610 @@
+1/15/2023, 9:27:17 PM 	 Route /api/liked-vacations/1 not exist
+----------------------------
+1/15/2023, 9:40:59 PM 	 Route /api/liked-vacations/1 not exist
+----------------------------
+1/15/2023, 9:46:52 PM 	 "destination" is required
+----------------------------
+1/15/2023, 9:46:58 PM 	 "destination" is required
+----------------------------
+1/15/2023, 9:47:42 PM 	 "destination" is required
+----------------------------
+1/15/2023, 9:53:08 PM 	 "destination" is required
+----------------------------
+1/15/2023, 11:12:21 PM 	 ENOENT: no such file or directory, stat '/Users/raniradzewsky/Library/Mobile Documents/com~apple~CloudDocs/Documents/school/John Bryce/John Bryce Projects/Project 3/Vacations Project 1.0/Backend/src/1-assets/images/Tatooine.jpeg'
+----------------------------
+1/15/2023, 11:12:36 PM 	 ENOENT: no such file or directory, stat '/Users/raniradzewsky/Library/Mobile Documents/com~apple~CloudDocs/Documents/school/John Bryce/John Bryce Projects/Project 3/Vacations Project 1.0/Backend/src/1-assets/images/Tatooine.jpeg'
+----------------------------
+1/15/2023, 11:12:38 PM 	 ENOENT: no such file or directory, stat '/Users/raniradzewsky/Library/Mobile Documents/com~apple~CloudDocs/Documents/school/John Bryce/John Bryce Projects/Project 3/Vacations Project 1.0/Backend/src/1-assets/images/Naboo.jpeg'
+----------------------------
+1/16/2023, 12:13:12 AM 	 "destination" is required
+----------------------------
+1/16/2023, 12:13:16 AM 	 "destination" is required
+----------------------------
+1/16/2023, 12:13:17 AM 	 "destination" is required
+----------------------------
+1/16/2023, 12:13:17 AM 	 "destination" is required
+----------------------------
+1/16/2023, 12:13:18 AM 	 "destination" is required
+----------------------------
+1/16/2023, 12:13:18 AM 	 "destination" is required
+----------------------------
+1/16/2023, 12:13:19 AM 	 "destination" is required
+----------------------------
+1/16/2023, 3:12:30 PM 	 Route /api/liked-vacations/1 not exist
+----------------------------
+1/16/2023, 3:12:39 PM 	 Route /api/liked-vacations/2 not exist
+----------------------------
+1/16/2023, 3:34:55 PM 	 Route /api/liked-vacations/ not exist
+----------------------------
+1/16/2023, 3:35:04 PM 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') AS isFollowing,
+      COUNT(F.userId) AS followersCount
+  FROM vacations AS...' at line 3
+----------------------------
+1/16/2023, 3:35:13 PM 	 Route /api/liked-vacations/1 not exist
+----------------------------
+1/16/2023, 3:35:17 PM 	 Route /api/liked-vacations/2 not exist
+----------------------------
+1/16/2023, 3:35:20 PM 	 Route /api/liked-vacations/3 not exist
+----------------------------
+1/16/2023, 3:49:41 PM 	 Route /api/liked-vacations/ not exist
+----------------------------
+1/16/2023, 3:50:11 PM 	 Route /api/liked-vacations/ not exist
+----------------------------
+1/16/2023, 3:50:32 PM 	 Route /api/liked-vacations/ not exist
+----------------------------
+1/16/2023, 3:50:34 PM 	 Route /api/liked-vacations/ not exist
+----------------------------
+1/16/2023, 5:31:59 PM 	 Route /api/auth/login/ not exist
+----------------------------
+1/16/2023, 5:32:39 PM 	 Route /api/auth/login/ not exist
+----------------------------
+1/16/2023, 5:32:40 PM 	 Route /api/auth/login/ not exist
+----------------------------
+1/16/2023, 5:32:45 PM 	 Route /api/auth/login not exist
+----------------------------
+1/16/2023, 5:34:25 PM 	 Route /api/auth/login not exist
+----------------------------
+1/16/2023, 5:34:29 PM 	 Route /api/auth/login/ not exist
+----------------------------
+1/16/2023, 5:34:33 PM 	 Route /api/auth/login not exist
+----------------------------
+1/16/2023, 5:35:40 PM 	 Route /api/auth/login not exist
+----------------------------
+1/16/2023, 5:35:43 PM 	 Route /api/auth/login/ not exist
+----------------------------
+1/16/2023, 5:39:31 PM 	 Route /api/auth/register/ not exist
+----------------------------
+1/16/2023, 5:41:17 PM 	 Route /api/auth/register/ not exist
+----------------------------
+1/16/2023, 5:43:25 PM 	 Route /api/auth/register/ not exist
+----------------------------
+1/16/2023, 5:44:28 PM 	 Route /api/auth/register/ not exist
+----------------------------
+1/16/2023, 5:47:39 PM 	 "role" is not allowed
+----------------------------
+1/16/2023, 5:48:21 PM 	 "role" is not allowed
+----------------------------
+1/16/2023, 5:49:44 PM 	 "userId" is not allowed
+----------------------------
+1/16/2023, 5:49:46 PM 	 "userId" is not allowed
+----------------------------
+1/16/2023, 5:49:47 PM 	 "userId" is not allowed
+----------------------------
+1/16/2023, 5:49:47 PM 	 "userId" is not allowed
+----------------------------
+1/16/2023, 5:50:05 PM 	 "userId" is not allowed
+----------------------------
+1/16/2023, 5:50:59 PM 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+1/16/2023, 5:51:26 PM 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+1/16/2023, 5:52:10 PM 	 ER_DATA_TOO_LONG: Data too long for column 'password' at row 1
+----------------------------
+1/16/2023, 5:53:03 PM 	 ER_DATA_TOO_LONG: Data too long for column 'password' at row 1
+----------------------------
+1/16/2023, 5:53:06 PM 	 ER_DATA_TOO_LONG: Data too long for column 'password' at row 1
+----------------------------
+1/16/2023, 5:53:19 PM 	 ER_DATA_TOO_LONG: Data too long for column 'password' at row 1
+----------------------------
+1/16/2023, 5:54:49 PM 	 ER_DATA_TOO_LONG: Data too long for column 'password' at row 1
+----------------------------
+1/16/2023, 5:54:50 PM 	 ER_DATA_TOO_LONG: Data too long for column 'password' at row 1
+----------------------------
+1/16/2023, 5:54:54 PM 	 "firstName" length must be at least 2 characters long
+----------------------------
+1/16/2023, 5:55:06 PM 	 "password" length must be at least 4 characters long
+----------------------------
+1/16/2023, 5:55:11 PM 	 ER_DATA_TOO_LONG: Data too long for column 'password' at row 1
+----------------------------
+1/16/2023, 5:55:18 PM 	 ER_DATA_TOO_LONG: Data too long for column 'password' at row 1
+----------------------------
+1/16/2023, 5:55:23 PM 	 "password" length must be at least 4 characters long
+----------------------------
+1/16/2023, 5:56:29 PM 	 ER_DATA_TOO_LONG: Data too long for column 'password' at row 1
+----------------------------
+1/16/2023, 5:57:22 PM 	 ER_DATA_TOO_LONG: Data too long for column 'password' at row 1
+----------------------------
+1/16/2023, 5:57:49 PM 	 ER_DATA_TOO_LONG: Data too long for column 'password' at row 1
+----------------------------
+1/16/2023, 5:57:50 PM 	 ER_DATA_TOO_LONG: Data too long for column 'password' at row 1
+----------------------------
+1/16/2023, 5:57:54 PM 	 ER_DATA_TOO_LONG: Data too long for column 'password' at row 1
+----------------------------
+1/16/2023, 5:58:00 PM 	 "password" length must be at least 3 characters long
+----------------------------
+1/16/2023, 5:58:15 PM 	 ER_DATA_TOO_LONG: Data too long for column 'password' at row 1
+----------------------------
+1/16/2023, 5:59:31 PM 	 ER_DATA_TOO_LONG: Data too long for column 'password' at row 1
+----------------------------
+1/16/2023, 5:59:32 PM 	 ER_DATA_TOO_LONG: Data too long for column 'password' at row 1
+----------------------------
+1/16/2023, 5:59:47 PM 	 ER_DATA_TOO_LONG: Data too long for column 'password' at row 1
+----------------------------
+1/16/2023, 5:59:47 PM 	 ER_DATA_TOO_LONG: Data too long for column 'password' at row 1
+----------------------------
+1/16/2023, 6:00:25 PM 	 ER_DATA_TOO_LONG: Data too long for column 'password' at row 1
+----------------------------
+1/16/2023, 6:00:26 PM 	 ER_DATA_TOO_LONG: Data too long for column 'password' at row 1
+----------------------------
+1/16/2023, 6:25:05 PM 	 "username" is not allowed to be empty
+----------------------------
+1/16/2023, 6:25:13 PM 	 Incorrect username or password
+----------------------------
+1/17/2023, 2:21:16 PM 	 ER_DUP_ENTRY: Duplicate entry '5-3' for key 'PRIMARY'
+----------------------------
+1/17/2023, 2:21:18 PM 	 ER_DUP_ENTRY: Duplicate entry '2-3' for key 'PRIMARY'
+----------------------------
+1/17/2023, 2:22:34 PM 	 ER_DUP_ENTRY: Duplicate entry '5-3' for key 'PRIMARY'
+----------------------------
+1/17/2023, 2:55:09 PM 	 Route /api/liked-vacations/[object%20Promise] not exist
+----------------------------
+1/17/2023, 3:00:00 PM 	 Route /api/liked-vacations/[object%20Promise] not exist
+----------------------------
+1/17/2023, 3:01:58 PM 	 Route /api/liked-vacations/[object%20Promise] not exist
+----------------------------
+1/17/2023, 3:01:58 PM 	 Route /api/liked-vacations/[object%20Promise] not exist
+----------------------------
+1/17/2023, 3:02:05 PM 	 Route /api/liked-vacations/[object%20Promise] not exist
+----------------------------
+1/17/2023, 3:02:35 PM 	 Route /api/liked-vacations/[object%20Promise] not exist
+----------------------------
+1/17/2023, 3:04:38 PM 	 Route /favicon.ico not exist
+----------------------------
+1/17/2023, 3:05:51 PM 	 Route /api/liked-vacations/[object%20Promise] not exist
+----------------------------
+1/17/2023, 3:07:43 PM 	 Route /api/liked-vacations/[object%20Promise] not exist
+----------------------------
+1/17/2023, 3:08:21 PM 	 Route /api/liked-vacations/[object%20Promise] not exist
+----------------------------
+1/17/2023, 3:11:33 PM 	 Route /api/liked-vacations/[object%20Promise] not exist
+----------------------------
+1/17/2023, 3:12:36 PM 	 Route /api/liked-vacations/[object%20Promise] not exist
+----------------------------
+1/17/2023, 3:13:11 PM 	 Route /api/liked-vacations/[object%20Promise] not exist
+----------------------------
+1/17/2023, 3:13:40 PM 	 Route /api/liked-vacations/[object%20Promise] not exist
+----------------------------
+1/17/2023, 3:14:22 PM 	 Route /api/liked-vacations/[object%20Promise] not exist
+----------------------------
+1/17/2023, 3:14:43 PM 	 Route /api/liked-vacations/[object%20Promise] not exist
+----------------------------
+1/17/2023, 3:14:47 PM 	 Route /api/liked-vacations/[object%20Promise] not exist
+----------------------------
+1/17/2023, 3:14:49 PM 	 Route /api/liked-vacations/[object%20Promise] not exist
+----------------------------
+1/17/2023, 3:14:52 PM 	 Route /api/liked-vacations/[object%20Promise] not exist
+----------------------------
+1/17/2023, 3:14:57 PM 	 Route /api/liked-vacations/[object%20Promise] not exist
+----------------------------
+1/17/2023, 3:14:58 PM 	 Route /api/liked-vacations/[object%20Promise] not exist
+----------------------------
+1/17/2023, 3:15:04 PM 	 Route /api/liked-vacations/[object%20Promise] not exist
+----------------------------
+1/17/2023, 3:15:06 PM 	 Route /api/liked-vacations/[object%20Promise] not exist
+----------------------------
+1/17/2023, 3:15:58 PM 	 Route /api/liked-vacations/[object%20Promise] not exist
+----------------------------
+1/17/2023, 3:17:15 PM 	 Route /api/liked-vacations/[object%20Promise] not exist
+----------------------------
+1/17/2023, 3:17:21 PM 	 Route /api/liked-vacations/[object%20Promise] not exist
+----------------------------
+1/17/2023, 3:18:03 PM 	 Route /api/liked-vacations/[object%20Promise] not exist
+----------------------------
+1/17/2023, 3:18:04 PM 	 Route /api/liked-vacations/[object%20Promise] not exist
+----------------------------
+1/17/2023, 3:18:15 PM 	 Route /api/liked-vacations/[object%20Promise] not exist
+----------------------------
+1/17/2023, 3:18:26 PM 	 Route /api/liked-vacations/[object%20Promise] not exist
+----------------------------
+1/17/2023, 3:18:27 PM 	 Route /api/liked-vacations/[object%20Promise] not exist
+----------------------------
+1/17/2023, 3:19:48 PM 	 Route /api/liked-vacations/[object%20Promise] not exist
+----------------------------
+1/17/2023, 3:20:04 PM 	 Route /api/liked-vacations/[object%20Promise] not exist
+----------------------------
+1/17/2023, 3:20:11 PM 	 Route /api/liked-vacations/[object%20Promise] not exist
+----------------------------
+1/17/2023, 3:20:26 PM 	 Route /api/liked-vacations/[object%20Promise] not exist
+----------------------------
+1/17/2023, 3:20:50 PM 	 Route /api/liked-vacations/[object%20Promise] not exist
+----------------------------
+1/17/2023, 3:20:55 PM 	 Route /api/liked-vacations/[object%20Promise] not exist
+----------------------------
+1/17/2023, 3:23:34 PM 	 Route /api/liked-vacations/[object%20Promise] not exist
+----------------------------
+1/17/2023, 3:23:40 PM 	 Route /api/liked-vacations/[object%20Promise] not exist
+----------------------------
+1/17/2023, 3:24:13 PM 	 Route /api/liked-vacations/[object%20Promise] not exist
+----------------------------
+1/17/2023, 3:24:17 PM 	 Route /api/liked-vacations/[object%20Promise] not exist
+----------------------------
+1/17/2023, 3:25:19 PM 	 Route /home not exist
+----------------------------
+1/17/2023, 3:25:33 PM 	 Route /api/liked-vacations/[object%20Promise] not exist
+----------------------------
+1/17/2023, 3:26:01 PM 	 Route /api/liked-vacations/[object%20Promise] not exist
+----------------------------
+1/17/2023, 3:42:21 PM 	 ER_DUP_ENTRY: Duplicate entry '1-3' for key 'PRIMARY'
+----------------------------
+1/17/2023, 3:42:21 PM 	 ER_DUP_ENTRY: Duplicate entry '1-3' for key 'PRIMARY'
+----------------------------
+1/17/2023, 3:42:22 PM 	 ER_DUP_ENTRY: Duplicate entry '1-3' for key 'PRIMARY'
+----------------------------
+1/17/2023, 3:42:22 PM 	 ER_DUP_ENTRY: Duplicate entry '1-3' for key 'PRIMARY'
+----------------------------
+1/17/2023, 3:42:22 PM 	 ER_DUP_ENTRY: Duplicate entry '1-3' for key 'PRIMARY'
+----------------------------
+1/17/2023, 3:42:22 PM 	 ER_DUP_ENTRY: Duplicate entry '1-3' for key 'PRIMARY'
+----------------------------
+1/17/2023, 3:42:22 PM 	 ER_DUP_ENTRY: Duplicate entry '1-3' for key 'PRIMARY'
+----------------------------
+1/17/2023, 3:42:22 PM 	 ER_DUP_ENTRY: Duplicate entry '1-3' for key 'PRIMARY'
+----------------------------
+1/17/2023, 3:42:22 PM 	 ER_DUP_ENTRY: Duplicate entry '1-3' for key 'PRIMARY'
+----------------------------
+1/17/2023, 3:42:23 PM 	 ER_DUP_ENTRY: Duplicate entry '1-3' for key 'PRIMARY'
+----------------------------
+1/17/2023, 3:42:23 PM 	 ER_DUP_ENTRY: Duplicate entry '1-3' for key 'PRIMARY'
+----------------------------
+1/17/2023, 3:42:29 PM 	 ER_DUP_ENTRY: Duplicate entry '1-3' for key 'PRIMARY'
+----------------------------
+1/17/2023, 3:42:29 PM 	 ER_DUP_ENTRY: Duplicate entry '1-3' for key 'PRIMARY'
+----------------------------
+1/17/2023, 3:42:30 PM 	 ER_DUP_ENTRY: Duplicate entry '1-3' for key 'PRIMARY'
+----------------------------
+1/17/2023, 3:42:30 PM 	 ER_DUP_ENTRY: Duplicate entry '1-3' for key 'PRIMARY'
+----------------------------
+1/17/2023, 3:42:31 PM 	 ER_DUP_ENTRY: Duplicate entry '1-3' for key 'PRIMARY'
+----------------------------
+1/17/2023, 3:42:31 PM 	 ER_DUP_ENTRY: Duplicate entry '1-3' for key 'PRIMARY'
+----------------------------
+1/17/2023, 3:42:36 PM 	 ER_DUP_ENTRY: Duplicate entry '1-3' for key 'PRIMARY'
+----------------------------
+1/17/2023, 3:48:20 PM 	 id 5 not exist
+----------------------------
+1/17/2023, 3:48:21 PM 	 id 5 not exist
+----------------------------
+1/17/2023, 3:50:17 PM 	 id 5 not exist
+----------------------------
+1/17/2023, 3:50:18 PM 	 id 5 not exist
+----------------------------
+1/17/2023, 3:50:19 PM 	 id 5 not exist
+----------------------------
+1/17/2023, 3:50:19 PM 	 id 5 not exist
+----------------------------
+1/17/2023, 3:50:20 PM 	 id 5 not exist
+----------------------------
+1/17/2023, 3:51:15 PM 	 ER_DUP_ENTRY: Duplicate entry '5-3' for key 'PRIMARY'
+----------------------------
+1/17/2023, 3:51:16 PM 	 ER_DUP_ENTRY: Duplicate entry '5-3' for key 'PRIMARY'
+----------------------------
+1/17/2023, 3:51:16 PM 	 ER_DUP_ENTRY: Duplicate entry '5-3' for key 'PRIMARY'
+----------------------------
+1/17/2023, 3:51:16 PM 	 ER_DUP_ENTRY: Duplicate entry '5-3' for key 'PRIMARY'
+----------------------------
+1/17/2023, 3:51:16 PM 	 ER_DUP_ENTRY: Duplicate entry '5-3' for key 'PRIMARY'
+----------------------------
+1/17/2023, 3:51:17 PM 	 ER_DUP_ENTRY: Duplicate entry '5-3' for key 'PRIMARY'
+----------------------------
+1/17/2023, 8:26:43 PM 	 Route / not exist
+----------------------------
+1/17/2023, 8:26:43 PM 	 Route /favicon.ico not exist
+----------------------------
+1/18/2023, 1:21:17 PM 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`vacationsproject`.`followers`, CONSTRAINT `followers_ibfk_2` FOREIGN KEY (`userId`) REFERENCES `users` (`userId`))
+----------------------------
+1/18/2023, 1:21:18 PM 	 id 5 not exist
+----------------------------
+1/18/2023, 1:23:48 PM 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`vacationsproject`.`followers`, CONSTRAINT `followers_ibfk_2` FOREIGN KEY (`userId`) REFERENCES `users` (`userId`))
+----------------------------
+1/18/2023, 1:23:48 PM 	 id 5 not exist
+----------------------------
+1/18/2023, 1:23:49 PM 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`vacationsproject`.`followers`, CONSTRAINT `followers_ibfk_2` FOREIGN KEY (`userId`) REFERENCES `users` (`userId`))
+----------------------------
+1/18/2023, 1:23:50 PM 	 id 5 not exist
+----------------------------
+1/18/2023, 1:25:49 PM 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`vacationsproject`.`followers`, CONSTRAINT `followers_ibfk_2` FOREIGN KEY (`userId`) REFERENCES `users` (`userId`))
+----------------------------
+1/18/2023, 1:25:50 PM 	 id 5 not exist
+----------------------------
+1/18/2023, 1:27:48 PM 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`vacationsproject`.`followers`, CONSTRAINT `followers_ibfk_2` FOREIGN KEY (`userId`) REFERENCES `users` (`userId`))
+----------------------------
+1/18/2023, 1:27:49 PM 	 id 5 not exist
+----------------------------
+1/18/2023, 4:22:53 PM 	 You are not logged in
+----------------------------
+1/18/2023, 4:22:54 PM 	 You are not logged in
+----------------------------
+1/18/2023, 5:03:50 PM 	 You are not logged in
+----------------------------
+1/18/2023, 5:04:07 PM 	 You are not logged in
+----------------------------
+1/18/2023, 5:05:46 PM 	 You are not logged in
+----------------------------
+1/18/2023, 5:05:48 PM 	 You are not logged in
+----------------------------
+1/18/2023, 5:12:40 PM 	 Cannot read properties of undefined (reading 'imageName')
+----------------------------
+1/18/2023, 5:12:52 PM 	 Cannot read properties of undefined (reading 'imageName')
+----------------------------
+1/18/2023, 5:13:49 PM 	 ER_DUP_ENTRY: Duplicate entry '6-3' for key 'PRIMARY'
+----------------------------
+1/18/2023, 7:29:35 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:29:35 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:29:35 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:29:35 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:29:35 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:29:35 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:29:58 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:29:58 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:29:58 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:29:58 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:29:58 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:29:58 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:30:02 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:30:02 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:30:02 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:30:02 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:30:02 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:30:02 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:30:05 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:30:05 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:30:05 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:30:05 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:30:05 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:30:05 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:30:13 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:30:13 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:30:13 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:30:13 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:30:13 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:30:13 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:30:39 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:30:39 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:30:39 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:30:39 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:30:39 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:30:39 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:30:45 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:30:45 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:30:45 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:30:45 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:30:45 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:30:45 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:31:11 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:31:11 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:31:11 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:31:11 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:31:11 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:31:11 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:31:15 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:31:15 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:31:15 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:31:15 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:31:15 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:31:15 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:31:18 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:31:18 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:31:18 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:31:18 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:31:18 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:31:18 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:31:20 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:31:20 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:31:20 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:31:20 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:31:20 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:31:20 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:31:22 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:31:22 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:31:22 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:31:22 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:31:22 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:31:22 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:31:23 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:31:23 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:31:23 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:31:23 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:31:23 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:31:23 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:31:37 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:31:37 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:31:37 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:31:37 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:31:37 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:31:37 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:32:13 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:32:13 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:32:13 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:32:13 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:32:13 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:32:13 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:32:46 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:32:46 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:32:46 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:32:46 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:32:46 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:32:46 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:33:20 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:33:20 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:33:20 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:33:20 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:33:20 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:33:20 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:33:22 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:33:22 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:33:22 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:33:22 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:33:22 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:33:22 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:33:29 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:33:29 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:33:29 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:33:29 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:33:29 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:33:29 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:33:51 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:33:51 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:33:51 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:33:51 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:33:51 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:33:51 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:33:55 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:33:55 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:33:55 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:33:55 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:33:55 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:33:55 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:33:58 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:33:58 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:33:58 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:33:58 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:33:58 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:33:58 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:34:34 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:34:34 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:34:34 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:34:34 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:34:34 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:34:34 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:34:43 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:34:43 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:34:43 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:34:43 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:34:43 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:34:43 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:34:45 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:34:45 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:34:45 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:34:45 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:34:45 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:34:45 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:34:56 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:34:56 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:34:56 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:34:56 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:34:56 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:34:56 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:35:08 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:35:08 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:35:08 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:35:08 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:35:08 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:35:08 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:35:10 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:35:10 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:35:10 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:35:10 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:35:10 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:35:10 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:35:17 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:35:17 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:35:17 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:35:17 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:35:17 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:35:17 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:35:24 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:35:24 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:35:24 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:35:24 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:35:24 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:35:24 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:35:27 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:35:27 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:35:27 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:35:27 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:35:27 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:35:27 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:35:29 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:35:29 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:35:29 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:35:29 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:35:29 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:35:29 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:35:33 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:35:33 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:35:33 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:35:33 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:35:33 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:35:33 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:37:06 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:37:06 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:37:06 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:37:06 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:37:06 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:37:06 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:37:13 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:37:13 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:37:13 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:37:13 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:37:13 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:37:13 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:38:22 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:38:22 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:38:22 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:38:22 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:38:22 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:38:22 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:38:38 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:38:38 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:38:38 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:38:38 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:38:38 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:38:38 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:38:58 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:39:49 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:40:00 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:40:03 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:40:25 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:40:31 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:40:31 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:40:31 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:40:31 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:40:31 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:40:31 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:40:34 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:40:34 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:40:34 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:40:34 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:40:34 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:40:34 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:40:41 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:40:47 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:40:47 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:40:47 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:40:47 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:40:47 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:40:47 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:40:54 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:40:54 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:40:54 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:40:54 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:40:54 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:40:54 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:40:57 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:41:26 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:41:26 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:41:26 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:41:26 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:41:26 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:41:26 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:41:28 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:41:34 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:41:34 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:41:34 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:41:34 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:41:34 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:41:34 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:42:18 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:42:24 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:42:37 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:43:16 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:43:16 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:43:16 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:43:16 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:43:16 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:43:16 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:43:22 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:45:04 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:45:10 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+----------------------------
+1/18/2023, 7:48:05 PM 	 "destination" is required
+----------------------------
+1/18/2023, 7:51:15 PM 	 "destination" is required
+----------------------------
+1/18/2023, 7:51:17 PM 	 "destination" is required
+----------------------------
+1/18/2023, 7:51:21 PM 	 "destination" is required
+----------------------------
+1/18/2023, 7:51:30 PM 	 "destination" is required
+----------------------------
+1/18/2023, 7:53:36 PM 	 "destination" is required
+----------------------------
+1/18/2023, 7:55:18 PM 	 Unexpected token } in JSON at position 228
+----------------------------
+1/18/2023, 7:55:25 PM 	 You are not logged in
+----------------------------
+1/18/2023, 7:55:53 PM 	 "price" is not allowed
+----------------------------
+1/18/2023, 7:56:01 PM 	 "price" is not allowed
+----------------------------
+1/18/2023, 7:58:02 PM 	 "image" is not allowed
+----------------------------
+1/18/2023, 7:58:07 PM 	 "image" is not allowed
+----------------------------
+1/18/2023, 7:58:08 PM 	 "image" is not allowed
+----------------------------
+1/18/2023, 7:58:08 PM 	 "image" is not allowed
+----------------------------
+1/18/2023, 7:58:09 PM 	 "image" is not allowed
+----------------------------
+1/18/2023, 7:58:09 PM 	 "image" is not allowed
+----------------------------
+1/18/2023, 7:58:36 PM 	 "image" is not allowed
+----------------------------
+1/18/2023, 8:00:11 PM 	 "image" is not allowed
+----------------------------
+1/18/2023, 8:00:16 PM 	 "destination" is required
+----------------------------
+1/18/2023, 8:00:17 PM 	 "destination" is required
+----------------------------
+1/18/2023, 8:00:33 PM 	 "destination" is required
+----------------------------
+1/18/2023, 8:00:34 PM 	 "destination" is required
+----------------------------
+1/18/2023, 8:00:35 PM 	 "destination" is required
+----------------------------
+1/18/2023, 8:00:35 PM 	 "destination" is required
+----------------------------
+1/18/2023, 8:00:35 PM 	 "destination" is required
+----------------------------
+1/18/2023, 8:00:35 PM 	 "destination" is required
+----------------------------
+1/18/2023, 8:00:35 PM 	 "destination" is required
+----------------------------
+1/18/2023, 8:01:46 PM 	 "image" is not allowed
+----------------------------
+1/18/2023, 8:01:48 PM 	 "destination" is required
+----------------------------
+1/18/2023, 8:04:31 PM 	 "destination" is required
+----------------------------
+1/18/2023, 8:05:06 PM 	 "image" is not allowed
+----------------------------
+1/18/2023, 8:05:20 PM 	 "image" is not allowed
+----------------------------
+1/18/2023, 8:06:05 PM 	 "destination" is required
+----------------------------
+1/18/2023, 8:06:07 PM 	 "destination" is required
+----------------------------
+1/18/2023, 8:06:07 PM 	 "destination" is required
+----------------------------
+1/18/2023, 8:09:21 PM 	 "destination" is required
+----------------------------
+1/18/2023, 8:09:22 PM 	 "destination" is required
+----------------------------
+1/18/2023, 8:09:23 PM 	 "destination" is required
+----------------------------
+1/18/2023, 8:09:23 PM 	 "destination" is required
+----------------------------
+1/18/2023, 8:09:23 PM 	 "destination" is required
+----------------------------
+1/18/2023, 8:09:23 PM 	 "destination" is required
+----------------------------
+1/18/2023, 8:09:24 PM 	 "destination" is required
+----------------------------
+1/18/2023, 8:16:02 PM 	 "image" is required
+----------------------------
+1/18/2023, 8:22:04 PM 	 "destination" is required
+----------------------------
+1/18/2023, 8:28:54 PM 	 "destination" is required
+----------------------------
+1/18/2023, 8:33:34 PM 	 "destination" is required
+----------------------------
+1/18/2023, 8:34:36 PM 	 "destination" is required
+----------------------------
+1/18/2023, 8:37:20 PM 	 "destination" is required
+----------------------------
+1/18/2023, 8:37:21 PM 	 "destination" is required
+----------------------------
+1/18/2023, 8:37:22 PM 	 "destination" is required
+----------------------------
+1/18/2023, 8:37:22 PM 	 "destination" is required
+----------------------------
+1/18/2023, 8:38:57 PM 	 "destination" is required
+----------------------------
+1/18/2023, 8:41:30 PM 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+1/18/2023, 8:42:33 PM 	 "destination" is required
+----------------------------
+1/18/2023, 8:44:40 PM 	 "destination" is required
+----------------------------
+1/18/2023, 8:44:51 PM 	 "destination" is required
+----------------------------
+1/18/2023, 8:45:58 PM 	 "destination" is required
+----------------------------
+1/18/2023, 8:47:00 PM 	 "destination" is required
+----------------------------
+1/18/2023, 8:47:35 PM 	 "destination" is required
+----------------------------
+1/18/2023, 8:48:18 PM 	 "destination" is required
+----------------------------
+1/18/2023, 8:49:58 PM 	 "destination" is required
+----------------------------
+1/18/2023, 8:50:13 PM 	 "destination" is required
+----------------------------
+1/18/2023, 8:52:45 PM 	 ER_BAD_NULL_ERROR: Column 'destination' cannot be null
+----------------------------
+1/18/2023, 8:56:07 PM 	 ER_TRUNCATED_WRONG_VALUE: Incorrect date value: '2023-03-01T22:00:00.000Z' for column `vacationsproject`.`vacations`.`startDate` at row 1
+----------------------------
+1/18/2023, 8:57:18 PM 	 "image" is required
+----------------------------
+1/18/2023, 8:57:26 PM 	 "image" is required
+----------------------------
+1/18/2023, 9:01:15 PM 	 Cannot read properties of undefined (reading 'imageName')
+----------------------------
+1/20/2023, 9:09:28 AM 	 Cannot read properties of undefined (reading 'imageName')
+----------------------------
+1/20/2023, 12:03:24 PM 	 Cannot read properties of undefined (reading 'imageName')
+----------------------------
+1/20/2023, 12:05:28 PM 	 Cannot read properties of undefined (reading 'imageName')
+----------------------------
+1/20/2023, 12:05:32 PM 	 Cannot read properties of undefined (reading 'imageName')
+----------------------------
+1/20/2023, 12:07:34 PM 	 Route /api/vacations/7 not exist
+----------------------------
+1/20/2023, 12:08:21 PM 	 Route /api/vacations/7 not exist
+----------------------------
+1/20/2023, 12:08:23 PM 	 Route /api/vacations/7 not exist
+----------------------------
+1/22/2023, 4:15:18 PM 	 "image" is required
+----------------------------
+1/22/2023, 4:42:54 PM 	 id 14 not exist
+----------------------------
+1/22/2023, 7:37:51 PM 	 "image" is required
+----------------------------
+1/22/2023, 7:37:55 PM 	 "image" is required
+----------------------------
+1/22/2023, 7:38:02 PM 	 "image" is required
+----------------------------
+1/22/2023, 7:39:13 PM 	 "image" must be of type object
+----------------------------
+1/22/2023, 7:40:02 PM 	 "image" is required
+----------------------------
+1/22/2023, 7:40:05 PM 	 "image" is required
+----------------------------
+1/22/2023, 7:40:21 PM 	 "image" is required
+----------------------------
+1/22/2023, 7:47:58 PM 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM vacations WHERE vacationId = 6' at line 2
+----------------------------
+1/22/2023, 7:47:59 PM 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM vacations WHERE vacationId = 6' at line 2
+----------------------------
+1/22/2023, 7:48:18 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'V.vacationId' in 'field list'
+----------------------------
+1/22/2023, 7:48:19 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'V.vacationId' in 'field list'
+----------------------------
+1/22/2023, 8:04:31 PM 	 "image" is required
+----------------------------
+1/22/2023, 8:04:33 PM 	 "image" is required
+----------------------------
+1/22/2023, 8:09:27 PM 	 "image" is required
+----------------------------
+1/22/2023, 8:11:15 PM 	 Cannot read properties of undefined (reading '0')
+----------------------------
+1/22/2023, 8:11:23 PM 	 "image" is required
+----------------------------
+1/22/2023, 8:13:31 PM 	 "image" is required
+----------------------------
+1/22/2023, 8:13:32 PM 	 "image" is required
+----------------------------
+1/22/2023, 8:15:50 PM 	 "image" is required
+----------------------------
+1/22/2023, 8:16:27 PM 	 id undefined not exist
+----------------------------
+1/22/2023, 8:18:04 PM 	 id undefined not exist
+----------------------------
+1/22/2023, 8:18:04 PM 	 id undefined not exist
+----------------------------
+1/22/2023, 8:18:05 PM 	 id undefined not exist
+----------------------------
+1/22/2023, 8:18:53 PM 	 ER_BAD_NULL_ERROR: Column 'imageName' cannot be null
+----------------------------
+1/22/2023, 8:19:01 PM 	 ER_BAD_NULL_ERROR: Column 'imageName' cannot be null
+----------------------------
+1/22/2023, 8:19:26 PM 	 "image" is required
+----------------------------
+1/22/2023, 8:19:28 PM 	 "image" is required
+----------------------------
+1/22/2023, 8:19:36 PM 	 "image" is required
+----------------------------
+1/22/2023, 8:21:23 PM 	 "image" is required
+----------------------------
+1/22/2023, 8:21:24 PM 	 "image" is required
+----------------------------
+1/22/2023, 8:21:24 PM 	 "image" is required
+----------------------------
+1/22/2023, 8:21:25 PM 	 "image" is required
+----------------------------
+1/22/2023, 8:25:58 PM 	 ER_TRUNCATED_WRONG_VALUE: Incorrect date value: '01-03-2023' for column `vacationsproject`.`vacations`.`startDate` at row 1
+----------------------------
+1/22/2023, 8:41:01 PM 	 "username" is not allowed to be empty
+----------------------------
+1/22/2023, 8:41:04 PM 	 "username" is not allowed to be empty
+----------------------------
+1/22/2023, 8:41:08 PM 	 "username" is not allowed to be empty
+----------------------------
+1/22/2023, 8:41:16 PM 	 "username" is not allowed to be empty
+----------------------------
+1/22/2023, 8:41:20 PM 	 "username" is not allowed to be empty
+----------------------------
+1/22/2023, 8:41:31 PM 	 "username" is not allowed to be empty
+----------------------------
+1/22/2023, 8:41:38 PM 	 Incorrect username or password
+----------------------------
+1/22/2023, 8:41:38 PM 	 Incorrect username or password
+----------------------------
+1/22/2023, 8:41:45 PM 	 "firstName" is not allowed to be empty
+----------------------------
+1/22/2023, 8:42:04 PM 	 Route /api/liked-vacations/undefined not exist
+----------------------------
+1/22/2023, 8:42:04 PM 	 Route /api/liked-vacations/undefined not exist
+----------------------------
+1/22/2023, 8:42:04 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+1/22/2023, 8:42:04 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+1/22/2023, 8:42:14 PM 	 Route /api/liked-vacations/undefined not exist
+----------------------------
+1/22/2023, 8:42:14 PM 	 Route /api/liked-vacations/undefined not exist
+----------------------------
+1/22/2023, 8:42:14 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+1/22/2023, 8:42:14 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+1/22/2023, 8:42:33 PM 	 Route /api/liked-vacations/undefined not exist
+----------------------------
+1/22/2023, 8:42:33 PM 	 Route /api/liked-vacations/undefined not exist
+----------------------------
+1/22/2023, 8:42:33 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+1/22/2023, 8:42:33 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+1/22/2023, 8:43:08 PM 	 Route /api/liked-vacations/undefined not exist
+----------------------------
+1/22/2023, 8:43:08 PM 	 Route /api/liked-vacations/undefined not exist
+----------------------------
+1/22/2023, 8:43:08 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+1/22/2023, 8:43:08 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+1/22/2023, 8:43:09 PM 	 Route /api/liked-vacations/undefined not exist
+----------------------------
+1/22/2023, 8:43:09 PM 	 Route /api/liked-vacations/undefined not exist
+----------------------------
+1/22/2023, 8:43:09 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+1/22/2023, 8:43:09 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+1/22/2023, 8:43:13 PM 	 Route /api/liked-vacations/undefined not exist
+----------------------------
+1/22/2023, 8:43:13 PM 	 Route /api/liked-vacations/undefined not exist
+----------------------------
+1/22/2023, 8:43:13 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+1/22/2023, 8:43:13 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+1/24/2023, 12:23:37 PM 	 "password" is not allowed to be empty
+----------------------------
+1/24/2023, 12:23:40 PM 	 Incorrect username or password
+----------------------------
+1/24/2023, 12:23:48 PM 	 Incorrect username or password
+----------------------------
+1/24/2023, 12:23:55 PM 	 "password" length must be at least 4 characters long
+----------------------------
+1/24/2023, 12:23:55 PM 	 "password" length must be at least 4 characters long
+----------------------------
+1/24/2023, 12:24:03 PM 	 "password" length must be at least 4 characters long
+----------------------------
+1/24/2023, 12:24:09 PM 	 "password" length must be at least 4 characters long
+----------------------------
+1/24/2023, 12:24:09 PM 	 "password" length must be at least 4 characters long
+----------------------------
+1/24/2023, 12:24:09 PM 	 "password" length must be at least 4 characters long
+----------------------------
+1/24/2023, 12:24:09 PM 	 "password" length must be at least 4 characters long
+----------------------------
+1/24/2023, 12:24:10 PM 	 "password" length must be at least 4 characters long
+----------------------------
+1/24/2023, 12:24:10 PM 	 "password" length must be at least 4 characters long
+----------------------------
+1/24/2023, 12:24:10 PM 	 "password" length must be at least 4 characters long
+----------------------------
+1/24/2023, 12:24:10 PM 	 "password" length must be at least 4 characters long
+----------------------------
+1/24/2023, 12:24:10 PM 	 "password" length must be at least 4 characters long
+----------------------------
+1/24/2023, 12:24:11 PM 	 "password" length must be at least 4 characters long
+----------------------------
+1/24/2023, 12:24:11 PM 	 "password" length must be at least 4 characters long
+----------------------------
+1/24/2023, 12:24:11 PM 	 "password" length must be at least 4 characters long
+----------------------------
+1/24/2023, 12:24:11 PM 	 "password" length must be at least 4 characters long
+----------------------------
+1/24/2023, 12:24:11 PM 	 "password" length must be at least 4 characters long
+----------------------------
+1/24/2023, 12:24:12 PM 	 "password" length must be at least 4 characters long
+----------------------------
+1/24/2023, 12:24:12 PM 	 "password" length must be at least 4 characters long
+----------------------------
+1/24/2023, 12:24:12 PM 	 "password" length must be at least 4 characters long
+----------------------------
+1/24/2023, 12:24:12 PM 	 "password" length must be at least 4 characters long
+----------------------------
+1/24/2023, 12:24:12 PM 	 "password" length must be at least 4 characters long
+----------------------------
+1/24/2023, 12:24:13 PM 	 "password" length must be at least 4 characters long
+----------------------------
+1/24/2023, 12:24:13 PM 	 "password" length must be at least 4 characters long
+----------------------------
+1/24/2023, 12:24:13 PM 	 "password" length must be at least 4 characters long
+----------------------------
+1/24/2023, 12:24:13 PM 	 "password" length must be at least 4 characters long
+----------------------------
+1/24/2023, 12:24:13 PM 	 "password" length must be at least 4 characters long
+----------------------------
+1/24/2023, 12:24:14 PM 	 "password" length must be at least 4 characters long
+----------------------------
+1/24/2023, 12:24:14 PM 	 "password" length must be at least 4 characters long
+----------------------------
+1/24/2023, 12:24:14 PM 	 "password" length must be at least 4 characters long
+----------------------------
+1/24/2023, 12:24:14 PM 	 "password" length must be at least 4 characters long
+----------------------------
+1/24/2023, 12:24:15 PM 	 Incorrect username or password
+----------------------------
+1/24/2023, 12:24:15 PM 	 Incorrect username or password
+----------------------------
+1/24/2023, 12:24:16 PM 	 Incorrect username or password
+----------------------------
+1/24/2023, 12:24:16 PM 	 Incorrect username or password
+----------------------------
+1/24/2023, 12:24:17 PM 	 Incorrect username or password
+----------------------------
+1/24/2023, 12:24:17 PM 	 Incorrect username or password
+----------------------------
+1/24/2023, 12:24:24 PM 	 "password" is not allowed to be empty
+----------------------------
+1/24/2023, 4:00:31 PM 	 Route /api/liked-vacations/undefined not exist
+----------------------------
+1/24/2023, 4:00:31 PM 	 Route /api/liked-vacations/undefined not exist
+----------------------------
+1/24/2023, 4:00:31 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+1/24/2023, 4:00:31 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+1/24/2023, 8:16:34 PM 	 Route /api/liked-vacations/undefined not exist
+----------------------------
+1/24/2023, 8:16:34 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+1/25/2023, 4:11:48 PM 	 Route /api/liked-vacations/undefined not exist
+----------------------------
+1/25/2023, 4:11:48 PM 	 You are not logged in
+----------------------------
+1/25/2023, 4:11:51 PM 	 Route /api/liked-vacations/undefined not exist
+----------------------------
+1/25/2023, 4:11:51 PM 	 You are not logged in
+----------------------------
+1/25/2023, 4:11:55 PM 	 Route /api/liked-vacations/undefined not exist
+----------------------------
+1/25/2023, 4:11:55 PM 	 You are not logged in
+----------------------------
+1/25/2023, 4:13:16 PM 	 Route /api/liked-vacations/undefined not exist
+----------------------------
+1/25/2023, 4:13:16 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+1/25/2023, 4:13:26 PM 	 Route /api/liked-vacations/undefined not exist
+----------------------------
+1/25/2023, 4:13:26 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+1/25/2023, 4:13:28 PM 	 Route /api/liked-vacations/undefined not exist
+----------------------------
+1/25/2023, 4:13:28 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+1/25/2023, 4:13:31 PM 	 Route /api/liked-vacations/undefined not exist
+----------------------------
+1/25/2023, 4:13:31 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+1/25/2023, 4:13:37 PM 	 Route /api/liked-vacations/undefined not exist
+----------------------------
+1/25/2023, 4:13:37 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+1/25/2023, 4:13:39 PM 	 Route /api/liked-vacations/undefined not exist
+----------------------------
+1/25/2023, 4:13:39 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+1/25/2023, 4:13:44 PM 	 Route /api/liked-vacations/undefined not exist
+----------------------------
+1/25/2023, 4:13:44 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+1/25/2023, 4:13:53 PM 	 Incorrect username or password
+----------------------------
+1/25/2023, 4:17:54 PM 	 Route /api/liked-vacations/undefined not exist
+----------------------------
+1/25/2023, 4:17:54 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+1/25/2023, 4:18:33 PM 	 Route /api/liked-vacations/undefined not exist
+----------------------------
+1/25/2023, 4:18:33 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+1/25/2023, 4:18:36 PM 	 Route /api/liked-vacations/undefined not exist
+----------------------------
+1/25/2023, 4:18:36 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+1/25/2023, 4:32:03 PM 	 "username" length must be at least 4 characters long
+----------------------------
+1/25/2023, 4:32:10 PM 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+1/25/2023, 4:33:14 PM 	 Route /api/liked-vacations/undefined not exist
+----------------------------
+1/25/2023, 4:33:14 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+1/25/2023, 4:37:07 PM 	 Route /api/liked-vacations/undefined not exist
+----------------------------
+1/25/2023, 4:37:07 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+1/25/2023, 4:38:45 PM 	 Route /api/liked-vacations/undefined not exist
+----------------------------
+1/25/2023, 4:38:45 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+1/25/2023, 4:41:31 PM 	 Route /api/liked-vacations/undefined not exist
+----------------------------
+1/25/2023, 4:41:31 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+1/25/2023, 4:47:57 PM 	 Route /api/liked-vacations/undefined not exist
+----------------------------
+1/25/2023, 4:47:57 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+1/25/2023, 4:49:49 PM 	 Route /api/liked-vacations/undefined not exist
+----------------------------
+1/25/2023, 4:49:49 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+1/25/2023, 4:49:53 PM 	 Route /api/liked-vacations/undefined not exist
+----------------------------
+1/25/2023, 4:49:53 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+1/25/2023, 4:51:09 PM 	 Route /api/liked-vacations/undefined not exist
+----------------------------
+1/25/2023, 4:51:09 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+1/25/2023, 4:51:15 PM 	 Route /api/liked-vacations/undefined not exist
+----------------------------
+1/25/2023, 4:51:15 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+1/25/2023, 4:51:33 PM 	 Route /api/liked-vacations/undefined not exist
+----------------------------
+1/25/2023, 4:51:33 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+1/25/2023, 4:57:13 PM 	 Route /api/liked-vacations/undefined not exist
+----------------------------
+1/25/2023, 4:57:13 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+1/25/2023, 4:58:29 PM 	 Route /api/liked-vacations/undefined not exist
+----------------------------
+1/25/2023, 4:58:29 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+1/25/2023, 4:58:51 PM 	 Route /api/liked-vacations/undefined not exist
+----------------------------
+1/25/2023, 4:58:51 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+1/25/2023, 4:59:08 PM 	 Route /api/liked-vacations/undefined not exist
+----------------------------
+1/25/2023, 4:59:08 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+1/25/2023, 4:59:16 PM 	 Route /api/liked-vacations/undefined not exist
+----------------------------
+1/25/2023, 4:59:16 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+1/25/2023, 4:59:31 PM 	 Route /api/liked-vacations/undefined not exist
+----------------------------
+1/25/2023, 4:59:31 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+1/25/2023, 5:02:06 PM 	 Route /api/liked-vacations/undefined not exist
+----------------------------
+1/25/2023, 5:02:06 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+1/25/2023, 5:02:23 PM 	 Route /api/liked-vacations/undefined not exist
+----------------------------
+1/25/2023, 5:02:23 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+1/25/2023, 5:02:37 PM 	 Route /api/liked-vacations/undefined not exist
+----------------------------
+1/25/2023, 5:02:37 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+1/25/2023, 5:51:00 PM 	 "firstName" is not allowed to be empty
+----------------------------
+1/25/2023, 6:00:03 PM 	 "username" length must be at least 4 characters long
+----------------------------
+1/25/2023, 6:00:50 PM 	 ER_ROW_IS_REFERENCED_2: Cannot delete or update a parent row: a foreign key constraint fails (`vacationsproject`.`followers`, CONSTRAINT `followers_ibfk_1` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`vacationId`))
+----------------------------
+1/25/2023, 9:29:15 PM 	 Incorrect username or password
+----------------------------
+1/25/2023, 9:48:07 PM 	 "username" is not allowed to be empty
+----------------------------
+1/25/2023, 9:48:11 PM 	 "username" is not allowed to be empty
+----------------------------
+1/25/2023, 9:48:17 PM 	 "username" is not allowed to be empty
+----------------------------
+1/25/2023, 9:49:46 PM 	 ER_DUP_ENTRY: Duplicate entry '29-36' for key 'PRIMARY'
+----------------------------
+1/25/2023, 9:49:47 PM 	 ER_DUP_ENTRY: Duplicate entry '26-36' for key 'PRIMARY'
+----------------------------
+1/25/2023, 9:49:50 PM 	 ER_DUP_ENTRY: Duplicate entry '5-36' for key 'PRIMARY'
+----------------------------
+1/25/2023, 9:50:02 PM 	 ER_DUP_ENTRY: Duplicate entry '30-36' for key 'PRIMARY'
+----------------------------
+1/25/2023, 9:50:25 PM 	 "username" is not allowed to be empty
+----------------------------
+1/25/2023, 9:50:29 PM 	 Incorrect username or password
+----------------------------
+1/27/2023, 2:14:44 PM 	 "image" is required
+----------------------------
+1/27/2023, 2:14:45 PM 	 "image" is required
+----------------------------
+1/27/2023, 2:16:14 PM 	 "image" is required
+----------------------------
+1/27/2023, 2:17:31 PM 	 "image" is required
+----------------------------
+1/27/2023, 2:18:02 PM 	 "image" is required
+----------------------------
+1/27/2023, 2:20:07 PM 	 "image" is required
+----------------------------
+1/27/2023, 2:21:28 PM 	 "image" is required
+----------------------------
+1/27/2023, 2:29:50 PM 	 "image" is required
+----------------------------
+1/27/2023, 2:31:00 PM 	 ENOENT: no such file or directory, stat '/Users/raniradzewsky/Library/Mobile Documents/com~apple~CloudDocs/Documents/school/John Bryce/John Bryce Projects/Project 3/Vacations Project 5.0/Backend/src/1-assets/images/undefined'
+----------------------------
+1/27/2023, 2:31:06 PM 	 ENOENT: no such file or directory, stat '/Users/raniradzewsky/Library/Mobile Documents/com~apple~CloudDocs/Documents/school/John Bryce/John Bryce Projects/Project 3/Vacations Project 5.0/Backend/src/1-assets/images/undefined'
+----------------------------
+1/27/2023, 2:31:12 PM 	 ENOENT: no such file or directory, stat '/Users/raniradzewsky/Library/Mobile Documents/com~apple~CloudDocs/Documents/school/John Bryce/John Bryce Projects/Project 3/Vacations Project 5.0/Backend/src/1-assets/images/undefined'
+----------------------------
+1/27/2023, 2:31:47 PM 	 ENOENT: no such file or directory, stat '/Users/raniradzewsky/Library/Mobile Documents/com~apple~CloudDocs/Documents/school/John Bryce/John Bryce Projects/Project 3/Vacations Project 5.0/Backend/src/1-assets/images/undefined'
+----------------------------
+1/27/2023, 2:31:58 PM 	 ENOENT: no such file or directory, stat '/Users/raniradzewsky/Library/Mobile Documents/com~apple~CloudDocs/Documents/school/John Bryce/John Bryce Projects/Project 3/Vacations Project 5.0/Backend/src/1-assets/images/undefined'
+----------------------------
+1/27/2023, 2:32:13 PM 	 ENOENT: no such file or directory, stat '/Users/raniradzewsky/Library/Mobile Documents/com~apple~CloudDocs/Documents/school/John Bryce/John Bryce Projects/Project 3/Vacations Project 5.0/Backend/src/1-assets/images/undefined'
+----------------------------
+1/27/2023, 2:38:14 PM 	 ENOENT: no such file or directory, stat '/Users/raniradzewsky/Library/Mobile Documents/com~apple~CloudDocs/Documents/school/John Bryce/John Bryce Projects/Project 3/Vacations Project 5.0/Backend/src/1-assets/images/undefined'
+----------------------------
+1/27/2023, 2:38:17 PM 	 ENOENT: no such file or directory, stat '/Users/raniradzewsky/Library/Mobile Documents/com~apple~CloudDocs/Documents/school/John Bryce/John Bryce Projects/Project 3/Vacations Project 5.0/Backend/src/1-assets/images/undefined'
+----------------------------
+1/27/2023, 2:38:22 PM 	 ENOENT: no such file or directory, stat '/Users/raniradzewsky/Library/Mobile Documents/com~apple~CloudDocs/Documents/school/John Bryce/John Bryce Projects/Project 3/Vacations Project 5.0/Backend/src/1-assets/images/undefined'
+----------------------------
+1/27/2023, 2:38:30 PM 	 ENOENT: no such file or directory, stat '/Users/raniradzewsky/Library/Mobile Documents/com~apple~CloudDocs/Documents/school/John Bryce/John Bryce Projects/Project 3/Vacations Project 5.0/Backend/src/1-assets/images/undefined'
+----------------------------
+1/27/2023, 2:38:32 PM 	 ENOENT: no such file or directory, stat '/Users/raniradzewsky/Library/Mobile Documents/com~apple~CloudDocs/Documents/school/John Bryce/John Bryce Projects/Project 3/Vacations Project 5.0/Backend/src/1-assets/images/undefined'
+----------------------------
+1/27/2023, 2:38:37 PM 	 ENOENT: no such file or directory, stat '/Users/raniradzewsky/Library/Mobile Documents/com~apple~CloudDocs/Documents/school/John Bryce/John Bryce Projects/Project 3/Vacations Project 5.0/Backend/src/1-assets/images/undefined'
+----------------------------
+1/27/2023, 2:39:33 PM 	 ENOENT: no such file or directory, stat '/Users/raniradzewsky/Library/Mobile Documents/com~apple~CloudDocs/Documents/school/John Bryce/John Bryce Projects/Project 3/Vacations Project 5.0/Backend/src/1-assets/images/undefined'
+----------------------------
+1/27/2023, 2:39:34 PM 	 ENOENT: no such file or directory, stat '/Users/raniradzewsky/Library/Mobile Documents/com~apple~CloudDocs/Documents/school/John Bryce/John Bryce Projects/Project 3/Vacations Project 5.0/Backend/src/1-assets/images/undefined'
+----------------------------
+1/27/2023, 9:17:49 PM 	 id 3 not exist
+----------------------------
+1/27/2023, 9:17:50 PM 	 id 28 not exist
+----------------------------
+1/27/2023, 9:18:54 PM 	 ENOENT: no such file or directory, stat '/Users/raniradzewsky/Library/Mobile Documents/com~apple~CloudDocs/Documents/school/John Bryce/John Bryce Projects/Project 3/Vacations Project 5.0/Backend/src/1-assets/images/undefined'
+----------------------------
+1/27/2023, 9:18:57 PM 	 ENOENT: no such file or directory, stat '/Users/raniradzewsky/Library/Mobile Documents/com~apple~CloudDocs/Documents/school/John Bryce/John Bryce Projects/Project 3/Vacations Project 5.0/Backend/src/1-assets/images/undefined'
+----------------------------
+1/27/2023, 9:22:06 PM 	 ENOENT: no such file or directory, stat '/Users/raniradzewsky/Library/Mobile Documents/com~apple~CloudDocs/Documents/school/John Bryce/John Bryce Projects/Project 3/Vacations Project 5.0/Backend/src/1-assets/images/undefined'
+----------------------------
+1/27/2023, 9:22:58 PM 	 ENOENT: no such file or directory, stat '/Users/raniradzewsky/Library/Mobile Documents/com~apple~CloudDocs/Documents/school/John Bryce/John Bryce Projects/Project 3/Vacations Project 5.0/Backend/src/1-assets/images/undefined'
+----------------------------
+1/27/2023, 9:23:01 PM 	 ENOENT: no such file or directory, stat '/Users/raniradzewsky/Library/Mobile Documents/com~apple~CloudDocs/Documents/school/John Bryce/John Bryce Projects/Project 3/Vacations Project 5.0/Backend/src/1-assets/images/undefined'
+----------------------------
+1/27/2023, 9:23:05 PM 	 ENOENT: no such file or directory, stat '/Users/raniradzewsky/Library/Mobile Documents/com~apple~CloudDocs/Documents/school/John Bryce/John Bryce Projects/Project 3/Vacations Project 5.0/Backend/src/1-assets/images/undefined'
+----------------------------
+1/27/2023, 9:23:07 PM 	 ENOENT: no such file or directory, stat '/Users/raniradzewsky/Library/Mobile Documents/com~apple~CloudDocs/Documents/school/John Bryce/John Bryce Projects/Project 3/Vacations Project 5.0/Backend/src/1-assets/images/undefined'
+----------------------------
+1/27/2023, 9:23:15 PM 	 ENOENT: no such file or directory, stat '/Users/raniradzewsky/Library/Mobile Documents/com~apple~CloudDocs/Documents/school/John Bryce/John Bryce Projects/Project 3/Vacations Project 5.0/Backend/src/1-assets/images/undefined'
+----------------------------
+1/27/2023, 9:24:00 PM 	 ENOENT: no such file or directory, stat '/Users/raniradzewsky/Library/Mobile Documents/com~apple~CloudDocs/Documents/school/John Bryce/John Bryce Projects/Project 3/Vacations Project 5.0/Backend/src/1-assets/images/undefined'
+----------------------------
+1/27/2023, 9:24:06 PM 	 ENOENT: no such file or directory, stat '/Users/raniradzewsky/Library/Mobile Documents/com~apple~CloudDocs/Documents/school/John Bryce/John Bryce Projects/Project 3/Vacations Project 5.0/Backend/src/1-assets/images/undefined'
+----------------------------
+1/27/2023, 9:24:17 PM 	 ENOENT: no such file or directory, stat '/Users/raniradzewsky/Library/Mobile Documents/com~apple~CloudDocs/Documents/school/John Bryce/John Bryce Projects/Project 3/Vacations Project 5.0/Backend/src/1-assets/images/undefined'
+----------------------------
+1/27/2023, 9:24:28 PM 	 ENOENT: no such file or directory, stat '/Users/raniradzewsky/Library/Mobile Documents/com~apple~CloudDocs/Documents/school/John Bryce/John Bryce Projects/Project 3/Vacations Project 5.0/Backend/src/1-assets/images/undefined'
+----------------------------
+1/27/2023, 9:24:38 PM 	 ENOENT: no such file or directory, stat '/Users/raniradzewsky/Library/Mobile Documents/com~apple~CloudDocs/Documents/school/John Bryce/John Bryce Projects/Project 3/Vacations Project 5.0/Backend/src/1-assets/images/undefined'
+----------------------------
+1/27/2023, 9:24:40 PM 	 ENOENT: no such file or directory, stat '/Users/raniradzewsky/Library/Mobile Documents/com~apple~CloudDocs/Documents/school/John Bryce/John Bryce Projects/Project 3/Vacations Project 5.0/Backend/src/1-assets/images/undefined'
+----------------------------
+1/27/2023, 9:24:56 PM 	 ENOENT: no such file or directory, stat '/Users/raniradzewsky/Library/Mobile Documents/com~apple~CloudDocs/Documents/school/John Bryce/John Bryce Projects/Project 3/Vacations Project 5.0/Backend/src/1-assets/images/undefined'
+----------------------------
+1/28/2023, 11:03:52 AM 	 You are not logged in
+----------------------------
+1/28/2023, 11:04:39 AM 	 You are not logged in
+----------------------------
+1/28/2023, 11:04:41 AM 	 You are not logged in
+----------------------------
+1/28/2023, 11:04:46 AM 	 You are not logged in
+----------------------------
+1/28/2023, 11:09:24 AM 	 You are not logged in
+----------------------------
+1/28/2023, 11:09:26 AM 	 You are not logged in
+----------------------------
+1/28/2023, 11:09:29 AM 	 You are not logged in
+----------------------------
+1/28/2023, 11:09:33 AM 	 You are not logged in
+----------------------------
+1/28/2023, 11:09:39 AM 	 You are not logged in
+----------------------------
+1/28/2023, 11:09:51 AM 	 You are not logged in
+----------------------------
+1/28/2023, 11:09:53 AM 	 You are not logged in
+----------------------------
+1/28/2023, 11:09:56 AM 	 You are not logged in
+----------------------------
+1/28/2023, 11:09:57 AM 	 You are not logged in
+----------------------------
+1/28/2023, 11:10:12 AM 	 You are not logged in
+----------------------------
+1/28/2023, 11:10:15 AM 	 You are not logged in
+----------------------------
+1/28/2023, 11:10:36 AM 	 You are not logged in
+----------------------------
+1/28/2023, 11:10:39 AM 	 You are not logged in
+----------------------------
+1/28/2023, 11:10:46 AM 	 You are not logged in
+----------------------------
+1/28/2023, 11:10:50 AM 	 You are not logged in
+----------------------------
+1/28/2023, 11:10:51 AM 	 You are not logged in
+----------------------------
+1/28/2023, 11:10:53 AM 	 You are not logged in
+----------------------------
+1/28/2023, 11:10:59 AM 	 You are not logged in
+----------------------------
+1/28/2023, 11:12:01 AM 	 You are not logged in
+----------------------------
+1/28/2023, 11:12:05 AM 	 You are not logged in
+----------------------------
+1/28/2023, 11:12:51 AM 	 You are not logged in
+----------------------------
+1/28/2023, 11:12:53 AM 	 You are not logged in
+----------------------------
+1/28/2023, 11:21:16 AM 	 id 29 not exist
+----------------------------
+1/28/2023, 11:24:59 AM 	 ER_DUP_ENTRY: Duplicate entry '2-3' for key 'PRIMARY'
+----------------------------
+1/28/2023, 11:24:59 AM 	 ER_DUP_ENTRY: Duplicate entry '2-3' for key 'PRIMARY'
+----------------------------
+1/28/2023, 11:26:01 AM 	 id 2 not exist
+----------------------------
+1/28/2023, 11:26:42 AM 	 ER_DUP_ENTRY: Duplicate entry '2-3' for key 'PRIMARY'
+----------------------------
+1/28/2023, 11:27:49 AM 	 id 2 not exist
+----------------------------
+1/28/2023, 11:27:49 AM 	 id 2 not exist
+----------------------------
+1/28/2023, 11:27:50 AM 	 id 2 not exist
+----------------------------
+1/28/2023, 1:09:54 PM 	 ER_DUP_ENTRY: Duplicate entry '27-3' for key 'PRIMARY'
+----------------------------
+1/28/2023, 1:09:55 PM 	 id 27 not exist
+----------------------------
+1/28/2023, 1:34:00 PM 	 Incorrect username or password
+----------------------------
+1/28/2023, 1:34:02 PM 	 Incorrect username or password
+----------------------------
+1/28/2023, 1:34:02 PM 	 Incorrect username or password
+----------------------------
+1/29/2023, 9:51:11 PM 	 ENOENT: no such file or directory, stat '/Users/raniradzewsky/Library/Mobile Documents/com~apple~CloudDocs/Documents/school/John Bryce/John Bryce Projects/Project 3/Vacations Project 5.0/Backend/src/1-assets/images/49317c07-0cc2-43e9-a4d7-d092b7fc50a8.png'
+----------------------------
+1/29/2023, 9:51:16 PM 	 ENOENT: no such file or directory, stat '/Users/raniradzewsky/Library/Mobile Documents/com~apple~CloudDocs/Documents/school/John Bryce/John Bryce Projects/Project 3/Vacations Project 5.0/Backend/src/1-assets/images/49317c07-0cc2-43e9-a4d7-d092b7fc50a8.png'
+----------------------------
+1/29/2023, 10:47:18 PM 	 id 78 not exist
+----------------------------
+1/29/2023, 10:47:32 PM 	 id 34 not exist
+----------------------------
+1/29/2023, 10:47:56 PM 	 id 0 not exist
+----------------------------
