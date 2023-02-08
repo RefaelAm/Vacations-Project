@@ -9,7 +9,6 @@ import routeNotFound from "./3-middleware/route-not-found";
 import authController from "./6-controllers/auth-controller";
 import vacationsController from "./6-controllers/vacations-controller";
 
-
 const server = express();
 server.use(cors());
 server.use(express.json());

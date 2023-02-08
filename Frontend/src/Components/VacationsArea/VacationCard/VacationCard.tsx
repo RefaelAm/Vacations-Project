@@ -45,7 +45,7 @@ function VacationCard(props: VacationCardProps): JSX.Element {
   }
 
   return (
-    <div className="Vacation-card Box font-link">
+    <div className="Vacation-card Box ">
       <label className="container" >
         <input
           type="checkbox"

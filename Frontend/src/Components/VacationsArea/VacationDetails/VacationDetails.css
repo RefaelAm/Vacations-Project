@@ -3,13 +3,8 @@
     margin-top: 10%;
     margin-left: 2px;
     text-align: left;
+    color:rgb(100, 21, 157);
     margin-left: 10px;
-    text-shadow: -2px 2px 0px rgb(153, 18, 190);
-}
-
-.Vacation-details > h1 {
-    font-weight: bold;
-    text-decoration: underline;
 }
 
 .Vacation-details > img {
@@ -22,11 +17,11 @@
 }
 
 .Vacation-details > a {
-    color: orange;
+    color:rgb(100, 21, 157);
     font-size: large;
     font-weight: bold;
-    background-color: black;
     padding: 5px;
-    border: 2px solid rgb(153, 56, 153);
+    margin: 5px;
+    border: 2px solid rgb(100, 21, 157);;
     border-radius: 10px;
 }

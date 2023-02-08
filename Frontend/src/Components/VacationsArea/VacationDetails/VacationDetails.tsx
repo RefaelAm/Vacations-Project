@@ -9,27 +9,20 @@ import vacationsService from "../../../Services/VacationsService";
 import appConfig from "../../../Utils/Config";
 import "./VacationDetails.css";
 
-
-
 function VacationDetails(): JSX.Element {
-
     const params = useParams();
     const [vacation, setVacation] = useState<VacationModel>();
     const [role, setRole] = useState<boolean>();
     const navigate = useNavigate();
 
-
     useEffect(() => {
         const id = +params.vacationId; 
         vacationsService.getOneVacation(id)
             .then(vacation => setVacation(vacation))
-            .catch(err => notifyService.error(err));
-        
+            .catch(err => notifyService.error(err)); 
             authService.isAdmin()
             .then(role => setRole(role))
             .catch(err => notifyService.error(err));
-        
-
     }, []);
 
     async function deleteVacation(id: number) {
@@ -46,7 +39,6 @@ function VacationDetails(): JSX.Element {
 
     return (
         <div className="Vacation-details">
-
             {vacation &&
                 <>
                 <div className="Container">
@@ -54,23 +46,18 @@ function VacationDetails(): JSX.Element {
                     <h2>{vacation.description}</h2>
                     <h3>Dates: {vacation.startDate + " until " + vacation.endDate}</h3>
                     <h3>Price: {vacation.price}$ </h3>
-                </div>
-                
-                    <img src={appConfig.vacationImagesUrl + vacation.imageName} />
-                    
+                </div> 
+                    <img src={appConfig.vacationImagesUrl + vacation.imageName} />              
                 </>
             }
-
             <br />
             <br />
-
             <NavLink to="/vacations">Back</NavLink>
             {role && <>
                 <NavLink  to={"/vacations/edit/" + vacation?.vacationId}>Edit</NavLink>
                 <NavLink to="/vacations" onClick={() => {deleteVacation(vacation.vacationId)}}>Delete</NavLink>
             </>
             }
-
         </div>
     );
 }

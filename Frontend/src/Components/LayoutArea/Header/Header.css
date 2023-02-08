@@ -18,6 +18,6 @@
     flex-direction: column;
 }
 
-span {
+.Header>span {
     color: indigo;
 }
