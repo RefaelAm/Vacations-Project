@@ -1,13 +1,13 @@
-import express, { request, response } from "express";
 import cors from "cors";
+import express from "express";
+import expressFileUpload from "express-fileupload";
+import expressRateLimit from "express-rate-limit";
 import appConfig from "./2-utils/app-config";
+import sanitize from "./2-utils/sanitize";
 import catchAll from "./3-middleware/catch-all";
 import routeNotFound from "./3-middleware/route-not-found";
-import vacationsController from "./6-controllers/vacations-controller";
 import authController from "./6-controllers/auth-controller";
-import expressFileUpload from "express-fileupload";
-import sanitize from "./2-utils/sanitize";
-import expressRateLimit from "express-rate-limit";
+import vacationsController from "./6-controllers/vacations-controller";
 
 
 const server = express();
