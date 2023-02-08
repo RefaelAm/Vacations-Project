@@ -1,17 +1,16 @@
 import "./Home.css";
-import galaxy from "../../../Assets/Images/galaxyMap.webp"
-
+import indigoHomePage from '../../../Assets/Images/indigoHomePage.jpg';
 
 function Home(): JSX.Element {
 
     return (
         <div className="Home">
 
-            <span className="font-link Box"> Travel the galaxy with us!</span>
+            <span className="Top-title">Indigo travels agency</span>
 
-          <div className="imgContainer">
-                <img src={galaxy}/>
-          </div>
+            <div className="img-container">
+                <img src={indigoHomePage} />
+            </div>
 
         </div>
     );
