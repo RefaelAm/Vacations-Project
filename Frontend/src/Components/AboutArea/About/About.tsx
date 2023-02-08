@@ -3,17 +3,17 @@ import "./About.css";
 function About(): JSX.Element {
     return (
         <div className="About">
-            <div className="Box font-link">
-                <h1>Member Perks:</h1>
+            <div className="Box ">
+                <h1>Indigo Travels</h1>
                 <br></br>
-                Follow vacations
+                always got your back
                 <br></br>
-                Filter vacations
+                we have the hottest deals
                 <br></br>
-                and more!
+                of the most wonderful vacations in the world
                 <br></br>
                 <br></br>
-                <h1> Join Today!</h1>
+                <h1>find your next vacation with us!</h1>
             </div>
         </div>
     );
