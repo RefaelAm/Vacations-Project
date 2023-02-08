@@ -1,17 +1,12 @@
-import React, { useState } from "react";
 import {
-  Chart as ChartJS,
-  CategoryScale,
-  LinearScale,
-  BarElement,
-  Title,
-  Tooltip,
-  Legend,
+  BarElement, CategoryScale, Chart as ChartJS, Legend, LinearScale, Title,
+  Tooltip
 } from "chart.js";
+import { useState } from "react";
 import { Bar } from "react-chartjs-2";
-import vacationsService from "../../../Services/VacationsService";
-import notifyService from "../../../Services/NotifyService";
 import VacationModel from "../../../Models/VacationModel";
+import notifyService from "../../../Services/NotifyService";
+import vacationsService from "../../../Services/VacationsService";
 
 ChartJS.register(
   CategoryScale,
@@ -35,34 +30,31 @@ export default function FollowersGraph() {
       },
     },
     scales: {
-        y: {
-            ticks: {
-                color: "white",
-                stepSize: 1,
-                beginAtZero: true
-            }
-        },
-        x: {
-            ticks: {
-                color: "white",
-                stepSize: 1,
-                beginAtZero: true
-            }
+      y: {
+        ticks: {
+          color: "white",
+          stepSize: 1,
+          beginAtZero: true
         }
+      },
+      x: {
+        ticks: {
+          color: "white",
+          stepSize: 1,
+          beginAtZero: true
+        }
+      }
     }
   };
-
   const [vacations, setVacations] = useState<VacationModel[]>([]);
-  
   vacationsService
+
     .getAllVacationsWithLikes()
     .then((vacations) => setVacations(vacations))
     .catch((err) => notifyService.error(err));
 
-
-
   const data = {
-    labels : vacations.map(v=>v.destination),
+    labels: vacations.map(v => v.destination),
     datasets: [
       {
         label: "Followers",
@@ -71,6 +63,5 @@ export default function FollowersGraph() {
       }
     ],
   };
-
   return <Bar options={options} data={data} />;
 }

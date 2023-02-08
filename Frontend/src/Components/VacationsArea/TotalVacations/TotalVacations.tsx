@@ -12,18 +12,12 @@ function TotalVacations(): JSX.Element {
         setCount(vacationsStore.getState().vacations.length);
         const unsubscribe = vacationsStore.subscribe(() => {
             setCount(vacationsStore.getState().vacations.length);
-
         });
-
         return () => {
-
-            // Unsubscribe: 
             unsubscribe();
         };
-
     }, []);
-
-    if(count === 0) return null;
+    if (count === 0) return null;
 
     return (
         <div className="TotalVacations Box font-link">

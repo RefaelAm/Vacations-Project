@@ -45,7 +45,7 @@ function VacationDetails(): JSX.Element {
     }
 
     return (
-        <div className="VacationDetails">
+        <div className="Vacation-details">
 
             {vacation &&
                 <>

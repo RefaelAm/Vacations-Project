@@ -1,4 +1,4 @@
-.VacationCard {
+.Vacation-card {
     display: inline-flex;
     justify-content: center;
     vertical-align: middle;
@@ -11,8 +11,7 @@
     margin-right: 30px;
 }
 
-
-.VacationCard > .Likes {
+.Vacation-card > .Likes {
     width: 20px;
     height: 20px;
     color: black;
@@ -23,23 +22,24 @@
     margin-left: 3px;
 }
 
-.VacationCard > .Container > h2 {
+.Vacation-card > .Container > h2 {
     text-decoration-line: underline;
     margin-bottom: 1px;
     margin-top: -1.5px;
 }
 
-.VacationCard > .Container {
+.Vacation-card > .Container {
     width: 80%;
     text-align: center;
     padding: 10px 10px;
     overflow: auto;
 }
 
-.VacationCard:hover {
+.Vacation-card:hover {
     box-shadow: 5px 5px 7px 3px rgba(151, 140, 182, 0.528);
 }
-.VacationCard img {
+
+.Vacation-card img {
     width: 110px;
     height: 110px;
     border: 1px solid black;
@@ -47,10 +47,9 @@
     vertical-align: middle;
 }
 
-.VacationCard > div:last-child {
+.Vacation-card > div:last-child {
     margin-left: auto;
 }
-
 
 .container input {
     position: absolute;
@@ -68,7 +67,6 @@
     user-select: none;
    }
    
-   /* Create a custom checkbox */
    .checkmark {
     position: relative;
     top: 0;
@@ -81,25 +79,21 @@
     --spread: 20px;
    }
    
-   /* When the checkbox is checked, add a blue background */
    .container input:checked ~ .checkmark {
     background: black;
     box-shadow: -10px -10px var(--spread) 0px #5B51D8, 0 -10px var(--spread) 0px #833AB4, 10px -10px var(--spread) 0px #E1306C, 10px 0 var(--spread) 0px #FD1D1D, 10px 10px var(--spread) 0px #F77737, 0 10px var(--spread) 0px #FCAF45, -10px 10px var(--spread) 0px #FFDC80;
    }
-   
-   /* Create the checkmark/indicator (hidden when not checked) */
+
    .checkmark:after {
     content: "";
     position: absolute;
     display: none;
    }
    
-   /* Show the checkmark when checked */
    .container input:checked ~ .checkmark:after {
     display: block;
    }
    
-   /* Style the checkmark/indicator */
    .container .checkmark:after {
     left: 0.45em;
     top: 0.25em;

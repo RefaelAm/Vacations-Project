@@ -7,8 +7,7 @@ import notifyService from "../../../Services/NotifyService";
 import "./Login.css";
 
 function Login(): JSX.Element {
-
-    const { register, handleSubmit, formState  } = useForm<CredentialsModel>();
+    const { register, handleSubmit, formState } = useForm<CredentialsModel>();
     const navigate = useNavigate();
 
     async function send(credentials: CredentialsModel) {
@@ -18,16 +17,14 @@ function Login(): JSX.Element {
             notifyService.success("Welcome Back!");
             navigate("/home");
         }
-        catch(err: any) {
+        catch (err: any) {
             notifyService.error(err);
         }
     }
 
     return (
         <div className="Login Box">
-
             <form onSubmit={handleSubmit(send)}>
-
                 <h2>Login</h2>
 
                 <label>Username: </label>
@@ -39,9 +36,7 @@ function Login(): JSX.Element {
                 <span className="Error">{formState.errors.password?.message}</span>
 
                 <button>Login</button>
-
             </form>
-
         </div>
     );
 }

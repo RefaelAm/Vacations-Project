@@ -1,4 +1,3 @@
-
 import { useEffect, useState } from "react";
 import { NavLink } from "react-router-dom";
 import FollowerModel from "../../../Models/FollowerModel";
@@ -14,51 +13,43 @@ interface VacationCardProps {
 }
 
 function VacationCard(props: VacationCardProps): JSX.Element {
-
-    const [followers, setFollowers] = useState(props.vacation.followersCount);
-    const [isFollowing, setIsFollowing] = useState(props.vacation.isFollowing);
-    const [userId, setUserId] = useState<number>();
-
-    useEffect(() => {
-
-            authService.getUserIdFromToken()
-            .then(id => {setUserId(id)})
-            .catch(err => notifyService.error(err));
-            
-    }, []);
+  const [followers, setFollowers] = useState(props.vacation.followersCount);
+  const [isFollowing, setIsFollowing] = useState(props.vacation.isFollowing);
+  const [userId, setUserId] = useState<number>();
+  useEffect(() => {
+    authService.getUserIdFromToken()
+      .then(id => { setUserId(id) })
+      .catch(err => notifyService.error(err));
+  }, []);
 
 
   async function click() {
     try {
-        
-            const vacationId = props.vacation.vacationId;
-            const userId = await authService.getUserIdFromToken();
-
-            const follower = new FollowerModel();
-            follower.vacationId = vacationId;
-            follower.userId = userId;
-
-        if (isFollowing) {
-            setIsFollowing(0)
-            setFollowers(followers-1)
-            vacationsService.deleteFollower(follower);
-         } else {
-            setIsFollowing(1)
-            setFollowers(followers+1)
-            vacationsService.addFollower(follower);
-        }
-
+      const vacationId = props.vacation.vacationId;
+      const userId = await authService.getUserIdFromToken();
+      const follower = new FollowerModel();
+      follower.vacationId = vacationId;
+      follower.userId = userId;
+      if (isFollowing) {
+        setIsFollowing(0)
+        setFollowers(followers - 1)
+        vacationsService.deleteFollower(follower);
+      } else {
+        setIsFollowing(1)
+        setFollowers(followers + 1)
+        vacationsService.addFollower(follower);
+      }
     } catch (err: any) {
       notifyService.error(err);
     }
   }
 
   return (
-    <div className="VacationCard Box font-link">
+    <div className="Vacation-card Box font-link">
       <label className="container" >
         <input
           type="checkbox"
-          disabled={userId===1 || userId===0? true : false}
+          disabled={userId === 1 || userId === 0 ? true : false}
           checked={isFollowing === 1 ? true : false}
           onChange={() => click()}
         />

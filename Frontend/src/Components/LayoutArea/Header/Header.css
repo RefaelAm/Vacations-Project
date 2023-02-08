@@ -1,14 +1,19 @@
 .Header {
-
     height: 100%;
     background-color: rgba(243, 233, 218, 0.803);
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-size: xx-large;
+    font-size: xxx-large;
     letter-spacing: -2px;
 }
 
 .Auth-menu {
     display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.Header-title {
+    padding-top: 30px;
     justify-content: center;
     flex-direction: column;
 }

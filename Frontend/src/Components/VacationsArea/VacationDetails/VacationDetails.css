@@ -1,4 +1,4 @@
-.VacationDetails > .Container {
+.Vacation-details > .Container {
     width: 600px;
     margin-top: 10%;
     margin-left: 2px;
@@ -7,12 +7,12 @@
     text-shadow: -2px 2px 0px rgb(153, 18, 190);
 }
 
-.VacationDetails > h1 {
+.Vacation-details > h1 {
     font-weight: bold;
     text-decoration: underline;
 }
 
-.VacationDetails > img {
+.Vacation-details > img {
     margin-left: 55%;
     margin-top: -20%;
     width: 450px;
@@ -21,7 +21,7 @@
     border-radius: 20px;
 }
 
-.VacationDetails > a {
+.Vacation-details > a {
     color: orange;
     font-size: large;
     font-weight: bold;

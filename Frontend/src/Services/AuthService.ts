@@ -6,11 +6,8 @@ import CredentialsModel from '../Models/CredentialsModel';
 import jwtDecode from "jwt-decode";
 
 class AuthService {
-
     public async register(user: UserModel): Promise<void> {
-        
         const response = await axios.post<string>(appConfig.registerUrl, user);
-
         const token = response.data;
         authStore.dispatch({ type: AuthActionType.Register, payload: token });
     }
@@ -35,27 +32,23 @@ class AuthService {
         return user;
     }
 
-
-    public async getUserIdFromToken(): Promise<number>{
+    public async getUserIdFromToken(): Promise<number> {
         const token = authStore.getState().token;
-        if(!token){return 0};
+        if (!token) { return 0 };
         const decodedToken = await jwtDecode(token);
         const userId = Promise.resolve((decodedToken as any).user.userId);
         return userId;
     }
 
-    public async isAdmin(): Promise<boolean>{    
+    public async isAdmin(): Promise<boolean> {
         const userId = await this.getUserIdFromToken();
-
-        if(userId===0) return false;
+        if (userId === 0) return false;
         const user = this.getOneUser(userId);
         const role = (await user).role;
-        if(role==="Admin") return true;
+        if (role === "Admin") return true;
         return false;
     }
 
 }
-
 const authService = new AuthService();
-
 export default authService;

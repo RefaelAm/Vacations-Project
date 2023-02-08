@@ -16,16 +16,14 @@ function Register(): JSX.Element {
             notifyService.success("Welcome!");
             navigate("/home");
         }
-        catch(err: any) {
+        catch (err: any) {
             notifyService.error(err);
         }
     }
 
     return (
         <div className="Register Box">
-
             <form onSubmit={handleSubmit(send)}>
-
                 <h2>Register</h2>
 
                 <label>First name: </label>
@@ -45,9 +43,7 @@ function Register(): JSX.Element {
                 <span className="Error">{formState.errors.password?.message}</span>
 
                 <button>Register</button>
-
             </form>
-
         </div>
     );
 }

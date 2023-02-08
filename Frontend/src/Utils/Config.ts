@@ -6,7 +6,6 @@ class Config {
     public loginUrl = "http://localhost:3001/api/auth/login/";
     public usersUrl = "http://localhost:3001/api/users/";
 }
-
 const appConfig = new Config();
 
 export default appConfig;

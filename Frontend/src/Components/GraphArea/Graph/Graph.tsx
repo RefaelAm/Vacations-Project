@@ -1,13 +1,12 @@
-import "./Graph.css";
-import FollowersGraph from "../FollowersGraph/FollowersGraph";
+import { useEffect } from "react";
+import { useNavigate } from "react-router-dom";
 import authService from "../../../Services/AuthService";
 import notifyService from "../../../Services/NotifyService";
-import { useNavigate } from "react-router-dom";
-import { useEffect } from "react";
+import FollowersGraph from "../FollowersGraph/FollowersGraph";
+import "./Graph.css";
 
 
 function Graph(): JSX.Element {
-    
     const navigate = useNavigate();
 
     async function areYouAnAdmin() {
@@ -18,24 +17,16 @@ function Graph(): JSX.Element {
                 navigate("/home");
                 return;
             }
-            }
+        }
         catch (err: any) {
             notifyService.error(err);
         }
     }
-
-    useEffect(()=>{
+    useEffect(() => {
         areYouAnAdmin()
-    },[])
+    }, [])
 
-
-    return (
-        <div className="Graph">
-
-    <FollowersGraph/>
-
-        </div>
-    );
+    return (<div className="Graph"><FollowersGraph /> </div>);
 }
 
 export default Graph;

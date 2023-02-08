@@ -5,9 +5,7 @@ function Home(): JSX.Element {
 
     return (
         <div className="Home">
-
-            <span className="Top-title">Indigo travels agency</span>
-
+            <div className="Top-title"><span className="Top-title-indigo">Indigo</span> travels agency</div>
             <div className="img-container">
                 <img src={indigoHomePage} />
             </div>

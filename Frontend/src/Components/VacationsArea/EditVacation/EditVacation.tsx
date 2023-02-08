@@ -9,26 +9,21 @@ import vacationsService from "../../../Services/VacationsService";
 import "./EditVacation.css";
 
 function EditVacation(): JSX.Element {
-
     const { register, handleSubmit, formState, setValue } = useForm<VacationModel>();
     const navigate = useNavigate();
     const params = useParams();
     const currentDate = new Date().toISOString().split("T")[0];
 
-    
-
     useEffect(() => {
-
         if (!authService.isAdmin()) {
             notifyService.error("You must be logged in as admin");
             navigate("/vacations");
             return;
         }
 
-        const id = +params.vacationId; 
+        const id = +params.vacationId;
         vacationsService.getOneVacation(id)
             .then(vacation => {
-                
                 setValue("vacationId", vacation.vacationId);
                 setValue("destination", vacation.destination);
                 setValue("description", vacation.description);
@@ -37,7 +32,6 @@ function EditVacation(): JSX.Element {
                 setValue("price", vacation.price);
             })
             .catch(err => notifyService.error(err));
-            
     }, []);
 
     async function send(vacation: VacationModel) {
@@ -46,7 +40,7 @@ function EditVacation(): JSX.Element {
                 notifyService.error("Start date must be before the end date")
                 return;
             }
-            if(vacation.image.length<1) {
+            if (vacation.image.length < 1) {
                 const currentVacation = await vacationsService.getOneVacation(vacation.vacationId);
                 vacation.imageName = currentVacation.imageName;
             }
@@ -62,11 +56,9 @@ function EditVacation(): JSX.Element {
 
     return (
         <div className="EditVacation Box">
-
             <form onSubmit={handleSubmit(send)}>
 
                 <h2>Edit Vacation</h2>
-
                 <input type="hidden" {...register("vacationId")} />
 
                 <label>Destination: </label>
@@ -93,9 +85,7 @@ function EditVacation(): JSX.Element {
                 <input type="file" accept="image/*" {...register("image")} />
 
                 <button>Update</button>
-
             </form>
-
         </div>
     );
 }

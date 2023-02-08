@@ -8,7 +8,6 @@ import vacationsService from "../../../Services/VacationsService";
 import "./AddVacation.css";
 
 function AddVacation(): JSX.Element {
-
     const { register, handleSubmit, formState } = useForm<VacationModel>();
     const navigate = useNavigate();
     const currentDate = new Date().toISOString().split("T")[0];
@@ -21,15 +20,15 @@ function AddVacation(): JSX.Element {
                 navigate("/vacations");
                 return;
             }
-            }
+        }
         catch (err: any) {
             notifyService.error(err);
         }
     }
 
-    useEffect(()=>{
+    useEffect(() => {
         areYouAnAdmin()
-    },[])
+    }, [])
 
     async function send(vacation: VacationModel) {
         try {
@@ -49,7 +48,6 @@ function AddVacation(): JSX.Element {
 
     return (
         <div className="AddVacation Box">
-
             <form onSubmit={handleSubmit(send)}>
 
                 <h2>Add Vacation</h2>
@@ -79,9 +77,7 @@ function AddVacation(): JSX.Element {
                 <span className="Error">{formState.errors.image?.message}</span>
 
                 <button>Add</button>
-
             </form>
-
         </div>
     );
 }

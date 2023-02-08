@@ -1,72 +1,75 @@
 .font-link {
-    font-family: 'Press Start 2P';
-    font-size: small;
-  }
+  font-family: 'Press Start 2P';
+  font-size: small;
+}
 
-html, body, #root {
-    margin: 0;
-    padding: 0;
-    height: 100%;
-    text-align: center;
-    color: white;
-
-    background-color: rgb(100, 21, 157);
-    background-size: 37%;
+html,
+body,
+#root {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  text-align: center;
+  color: white;
+  background-color: rgb(100, 21, 157);
+  background-size: 37%;
 }
 
 a {
-    color: blue;
-    font-family: 'Geostar';
+  color: blue;
+  font-family: 'Geostar';
 }
 
 form {
-    width: 250px;
-    text-align: left;
+  width: 250px;
+  text-align: left;
 }
 
-form > h2 {
-    text-align: center;
+form>h2 {
+  text-align: center;
 }
 
-form > input, form > button {
-    width: 100%;
-    margin-bottom: 20px;
-    box-sizing: border-box;
+form>input,
+form>button {
+  width: 100%;
+  margin-bottom: 20px;
+  box-sizing: border-box;
+  background-color: rgba(243, 233, 218, 0.803);
+}
+
+form>label {
+  color: rgba(243, 233, 218, 0.803);
+  
 }
 
 .Box {
-    display: inline-block;
-    border: 1px solid black;
-    background-color: rgb(126, 24, 158);
-    margin: 10px;
-    padding: 10px;
-    border-radius: 10px;
-    box-shadow: 5px 5px 10px black;
+  display: inline-block;
+  border: 1px solid black;
+  background-color: rgb(100, 21, 157);
+  margin: 10px;
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px black;
 }
 
 .Error {
-    color: red;
-    margin: 0 20px;
-    position: absolute;
+  color: red;
+  margin: 0 20px;
+  position: absolute;
 }
 
-
-/* width */
 ::-webkit-scrollbar {
-    width: 10px;
-  }
-  
-  /* Track */
-  ::-webkit-scrollbar-track {
-    background: #f1f1f1;
-  }
-  
-  /* Handle */
-  ::-webkit-scrollbar-thumb {
-    background: #888;
-  }
-  
-  /* Handle on hover */
-  ::-webkit-scrollbar-thumb:hover {
-    background: #555;
-  }
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #888;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}

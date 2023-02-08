@@ -1,7 +1,4 @@
-import { NavLink, useNavigate } from "react-router-dom";
-import authService from "../../../Services/AuthService";
-import notifyService from "../../../Services/NotifyService";
-import AuthMenu from "../../AuthArea/AuthMenu/AuthMenu";
+import { NavLink } from "react-router-dom";
 import TotalVacations from "../../VacationsArea/TotalVacations/TotalVacations";
 import "./Menu.css";
 
@@ -9,11 +6,9 @@ function Menu(): JSX.Element {
 
   return (
     <div className="Menu">
- 
       <NavLink to="/home">Home</NavLink>
-      <NavLink to="/vacations/">Vacations</NavLink>
-      <NavLink to="/about">About</NavLink>
-
+      <NavLink to="/vacations/">Vacation deals</NavLink>
+      <NavLink to="/about">About us</NavLink>
       <TotalVacations />
     </div>
   );

@@ -4,7 +4,7 @@ import "./Header.css";
 function Header(): JSX.Element {
     return (
         <div className="Header">
-            <div className="">
+            <div className="Header-title">
             <span>Indigo</span> Travels
             </div>
             <div className="Auth-menu">
