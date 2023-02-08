@@ -1,5 +1,4 @@
-
-class   FollowerModel {
+class FollowerModel {
     public vacationId: number;
     public userId: number;
 
@@ -9,4 +8,4 @@ class   FollowerModel {
     }
 }
 
-export default  FollowerModel;
+export default FollowerModel;

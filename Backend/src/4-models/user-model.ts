@@ -1,7 +1,6 @@
 import Joi from "joi";
 import RoleModel from "./role-model";
 
-
 class UserModel {
     public userId: number;
     public role: RoleModel;
@@ -10,7 +9,7 @@ class UserModel {
     public username: string;
     public password: string;
 
-    public constructor (user: UserModel) {
+    public constructor(user: UserModel) {
         this.userId = user.userId;
         this.role = user.role;
         this.firstName = user.firstName;

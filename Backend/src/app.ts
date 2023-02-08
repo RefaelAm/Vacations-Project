@@ -11,12 +11,12 @@ import vacationsController from "./6-controllers/vacations-controller";
 
 
 const server = express();
-server.use(cors()); 
+server.use(cors());
 server.use(express.json());
 server.use("/api/", expressRateLimit({
     max: 50,
-    windowMs: 1000, 
-    message: "Are you a hacker?" 
+    windowMs: 1000,
+    message: "Are you a hacker?"
 }));
 server.use(expressFileUpload());
 server.use("/api", vacationsController);
@@ -26,4 +26,3 @@ server.use(sanitize);
 server.use(catchAll);
 
 server.listen(appConfig.port, () => console.log(`Listening on http://localhost:${appConfig.port}`));
-

@@ -1,7 +1,6 @@
 import Joi from "joi";
 
 class CredentialsModel {
-
     public username: string;
     public password: string;
 

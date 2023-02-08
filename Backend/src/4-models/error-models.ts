@@ -25,4 +25,3 @@ export class UnauthorizedErrorModel extends ErrorModel {
         super(message, 401);
     }
 }
-

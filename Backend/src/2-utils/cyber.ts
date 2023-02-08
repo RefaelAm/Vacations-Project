@@ -6,9 +6,7 @@ import crypto from "crypto";
 const jwtSecretKey = "WhyDidTheyBringBackPalpatine";
 
 function getNewToken(user: UserModel): string {
-
     delete user.password;
-
     const container = { user };
     const options = { expiresIn: "3h" };
     const token = jwt.sign(container, jwtSecretKey, options);
@@ -41,20 +39,12 @@ function verifyToken(request: Request): Promise<boolean> {
         }
     });
 }
-
-
 const salt = "ThePrequelsAreBetter";
 
 function hash(plainText: string): string {
-
-    if(!plainText) return null;
-
-
-    // Hash with salt: 
+    if (!plainText) return null;
     const hashedText = crypto.createHmac("sha512", salt).update(plainText).digest("hex");
-
     return hashedText;
-
 }
 
 export default {

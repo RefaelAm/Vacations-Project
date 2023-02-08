@@ -1,17 +1,14 @@
-import express, { Request, Response, NextFunction, response } from "express";
-import VacationModel from "../4-models/vacation-model";
-import vacationsLogic from "../5-logic/vacations-logic";
-import logic from "../5-logic/vacations-logic";
+import express, { NextFunction, Request, Response } from "express";
 import path from "path";
 import blockNonLoggedIn from "../3-middleware/block-non-logged-in";
+import VacationModel from "../4-models/vacation-model";
+import { default as logic, default as vacationsLogic } from "../5-logic/vacations-logic";
 
 const router = express.Router();
-
-// GET http://localhost:3001/api/vacations
 router.get("/vacations", async (request: Request, response: Response, next: NextFunction) => {
     try {
         let userId = +request.params.userId;
-        if(!userId) userId = 0;
+        if (!userId) userId = 0;
         const vacations = await logic.getAllVacations();
         response.json(vacations)
     }
@@ -20,7 +17,6 @@ router.get("/vacations", async (request: Request, response: Response, next: Next
     }
 });
 
-// GET http://localhost:3001/api/liked-vacations/:userId
 router.get("/liked-vacations/:userId([0-9]+)", async (request: Request, response: Response, next: NextFunction) => {
     try {
         const userId = +request.params.userId;
@@ -32,7 +28,6 @@ router.get("/liked-vacations/:userId([0-9]+)", async (request: Request, response
     }
 });
 
-// GET http://localhost:3001/api/vacations/:vacationId
 router.get("/vacations/:vacationId([0-9]+)", async (request: Request, response: Response, next: NextFunction) => {
     try {
         const vacationId = +request.params.vacationId;
@@ -44,10 +39,9 @@ router.get("/vacations/:vacationId([0-9]+)", async (request: Request, response: 
     }
 });
 
-// POST http://localhost:3001/api/vacations
-router.post("/vacations",async (request: Request, response: Response, next: NextFunction) => {
+router.post("/vacations", async (request: Request, response: Response, next: NextFunction) => {
     try {
-        request.body.image = request.files?.image; //body
+        request.body.image = request.files?.image;
         const vacation = new VacationModel(request.body);
         const addedVacation = await logic.addVacation(vacation);
         response.status(201).json(addedVacation);
@@ -57,7 +51,6 @@ router.post("/vacations",async (request: Request, response: Response, next: Next
     }
 });
 
-// PUT http://localhost:3001/api/vacations/:vacationId
 router.put("/vacations/:vacationId([0-9]+)", async (request: Request, response: Response, next: NextFunction) => {
     try {
         const vacationId = +request.params.vacationId;
@@ -72,8 +65,6 @@ router.put("/vacations/:vacationId([0-9]+)", async (request: Request, response: 
     }
 });
 
-
-// DELETE http://localhost:3001/api/vacations/:vacationId
 router.delete("/vacations/:vacationId([0-9]+)", async (request: Request, response: Response, next: NextFunction) => {
     try {
         const vacationId = +request.params.vacationId;
@@ -85,20 +76,16 @@ router.delete("/vacations/:vacationId([0-9]+)", async (request: Request, respons
     }
 });
 
-//GET all images:
-router.get("/vacations/images/:imageName", async (request:Request, response:Response,next:NextFunction) => {
-    try{
+router.get("/vacations/images/:imageName", async (request: Request, response: Response, next: NextFunction) => {
+    try {
         const imageName = request.params.imageName;
-        const absolutePath = path.join(__dirname, "..","1-assets", "images",imageName);
+        const absolutePath = path.join(__dirname, "..", "1-assets", "images", imageName);
         response.sendFile(absolutePath);
     } catch (err: any) {
         next(err);
     }
-    });
+});
 
-
-    
-// GET http://localhost:3001/api/liked-vacations
 router.get("/liked-vacations", async (request: Request, response: Response, next: NextFunction) => {
     try {
         const followers = await logic.getAllFollowers();
@@ -108,9 +95,8 @@ router.get("/liked-vacations", async (request: Request, response: Response, next
         next(err);
     }
 });
-    
-// POST http://localhost:3001/api/liked-vacations
-router.post("/liked-vacations",[blockNonLoggedIn], async (request: Request, response: Response, next: NextFunction) => {
+
+router.post("/liked-vacations", [blockNonLoggedIn], async (request: Request, response: Response, next: NextFunction) => {
     try {
         const userId = +request.body.userId;
         const vacationId = +request.body.vacationId;
@@ -122,7 +108,6 @@ router.post("/liked-vacations",[blockNonLoggedIn], async (request: Request, resp
     }
 });
 
-// DELETE http://localhost:3001/api/liked-vacations
 router.delete("/liked-vacations/:vacationId/:userId", [blockNonLoggedIn], async (request: Request, response: Response, next: NextFunction) => {
     try {
         const vacationId = +request.params.vacationId;

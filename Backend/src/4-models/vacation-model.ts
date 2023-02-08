@@ -1,7 +1,7 @@
 import { UploadedFile } from "express-fileupload";
 import Joi from "joi";
 
- class VacationModel {
+class VacationModel {
     public vacationId: number;
     public destination: string;
     public description: string;
@@ -12,7 +12,7 @@ import Joi from "joi";
 
     public imageName: string;
 
-    public constructor (vacation: VacationModel) {
+    public constructor(vacation: VacationModel) {
         this.vacationId = vacation.vacationId;
         this.destination = vacation.destination;
         this.description = vacation.description;
@@ -39,6 +39,6 @@ import Joi from "joi";
         const result = VacationModel.validationSchema.validate(this);
         return result.error?.message;
     }
- }
+}
 
- export default VacationModel;
+export default VacationModel;
